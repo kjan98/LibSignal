@@ -13,3 +13,4 @@ from .fixedtime import FixedTimeAgent
 from .mplight import MPLightAgent
 
 # from .ppo_pfrl import IPPO_pfrl
+from .frap_transformer import FRAP_TRANSFORMERAgent
