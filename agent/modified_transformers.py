@@ -1,3 +1,5 @@
+# https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
